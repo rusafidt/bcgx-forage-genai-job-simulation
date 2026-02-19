@@ -1,0 +1,14 @@
+{
+  "hello": "Hello! How can I assist you today?",
+  "how are you?": "I'm just a bot, but I'm doing great! Thanks for asking.",
+  "what's your name?": "I'm ChatBot, your virtual assistant.",
+  "what is the total revenue in 2025 (all companies combined)?": "Total revenue in 2025 is $792,712,000,000.",
+  "what is the total revenue in 2025 for apple?": "Total revenue in 2025 for Apple is $416,161,000,000.",
+  "what is the total revenue in 2025 for microsoft?": "Total revenue in 2025 for Microsoft is $281,724,000,000.",
+  "what is the total revenue in 2025 for tesla?": "Total revenue in 2025 for Tesla is $94,827,000,000.",
+  "which company had the highest revenue in 2025?": "Apple had the highest 2025 revenue at $416,161,000,000.",
+  "how did apple's net income change from 2024 to 2025?": "Apple's net income increased from $93,736,000,000 to $112,010,000,000, a +19.50% change.",
+  "how did microsoft's revenue change from 2024 to 2025?": "Microsoft's revenue increased from $245,122,000,000 to $281,724,000,000, a +14.93% change.",
+  "what trend do we see overall from 2023 to 2025?": "Combined totals increased from 2023 to 2025: revenue ($691.973B -> $792.712B) and net income ($184.353B -> $217.636B).",
+  "_default": "Sorry, I do not have a predefined answer for that question yet."
+}
