@@ -8,6 +8,8 @@
 
 # BCG x Forage Financial Chatbot Project
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 This repository contains my Forage project submission, split into two parts:
 - Task 1: EDGAR data analysis in Jupyter Notebook
 - Task 2: FastAPI-based financial chatbot using predefined query-response mapping
@@ -103,3 +105,7 @@ Example response:
   "response": "Total revenue in 2025 is $792,712,000,000."
 }
 ```
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
